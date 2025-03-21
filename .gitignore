@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+TEST.md
+output_demo.csv
+msfiddle/check_point/
